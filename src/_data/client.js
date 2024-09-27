@@ -1,16 +1,30 @@
 module.exports = {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "name": "Fine Arts OKC",
+    "email": "example@gmail.com",
+    "phoneForTel": "405-947-6730",
+    "phoneFormatted": "(405) 947-6730",
+    "phoneFormatted2": "(800)-657-6039",
+    "phoneFormatted3": "(918)-835-6400",
+    "phoneFormatted4": "(800)-910-4366",
     "address": {
-        "lineOne": "First Address Line",
-        "lineTwo": "Second Address Line",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80206",
+        "lineOne": "4401 SW 23rd Street",
+        "lineTwo": "Oklahoma City, OK 73108",
+        // "city": "Oklahoma City",
+        // "state": "OK",
+        // "zip": "73108",
         "country": "US",
-        "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+        "mapLink": "https://maps.app.goo.gl/7L4Ss9C3FcHBvLLD9",
+        "mapLink2": "https://maps.app.goo.gl/HAZMNHFBcBTUWQNq5"
+    },
+    "address2": {
+        "lineOne": "6716 E 12th Street",
+        "lineTwo": "Tulsa, OK 74112",
+        // "city": "Oklahoma City",
+        // "state": "OK",
+        // "zip": "73108",
+        "country": "US",
+        "mapLink": "https://maps.app.goo.gl/7L4Ss9C3FcHBvLLD9",
+        "mapLink2": "https://maps.app.goo.gl/HAZMNHFBcBTUWQNq5"
     },
     "socials": {
         "facebook": "https://www.facebook.com/",
