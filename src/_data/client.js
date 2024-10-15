@@ -1,6 +1,6 @@
 module.exports = {
     "name": "Fine Arts OKC",
-    "email": "example@gmail.com",
+    "email": "kevinb@fineartsok.com",
     "phoneForTel": "405-947-6730",
     "phoneFormatted": "(405) 947-6730",
     "phoneFormatted2": "(800)-657-6039",
@@ -31,5 +31,5 @@ module.exports = {
         "instagram": "https://www.instagram.com/",
     },
     //! Make sure you include the file protocol (e.g. https://) and that NO TRAILING SLASH is included
-    "domain": "https://www.example.com"
+    "domain": "https://www.fineartsok.com"
 };

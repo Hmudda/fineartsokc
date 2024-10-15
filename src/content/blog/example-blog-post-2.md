@@ -1,11 +1,10 @@
 ---
-title: Example Blog Post
-url: Blog Post
+title: Example Blog Post 2
+url: Blog Post 2
 description: Here is where you would write a description of this post
 author: Author Here
-date: 2024-10-14T14:17:00.000Z
-tags:
-  - post
+date: 2024-10-03T09:17:00.000Z
+tags: []
 image: /assets/images/blog/header4.jpg
 imageAlt: Kitchen
 ---
