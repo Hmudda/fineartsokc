@@ -5,7 +5,7 @@ description: Here is where you would write a description of this post
 author: Author Here
 date: 2024-10-14T14:17:00.000Z
 tags:
-  - post
+  - featured
 image: /assets/images/blog/header4.jpg
 imageAlt: Kitchen
 ---
